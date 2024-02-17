@@ -83,6 +83,7 @@ redirect_from:
   urine: an informal literature survey. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/05/2022-04-28-Pathogen-lit-survey-combined.pdf) (Apr 2022).
 - A Young, **SW Olesen**. Interpreting Covid-19 wastewater data from buildings. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/04/Brief-Interpreting-Covid-19-wastewater-data-from-buildings-1.pdf) (May 2022).
 - **SW Olesen**. Effective concentration: a future-proof approach to characterizing pathogen concentrations in wastewater. [Biobot Analytics](http://biobot.io/wp-content/uploads/2022/02/2022-01-White-paper-Effective-concentration.pdf) (Feb 2022).
+- **SW Olesen**. Polio and the early history of wastewater epidemiology. [Biobot Analytics](https://biobot.io/polio-and-the-early-history-of-wastewater-epidemiology/) (Oct 2021). [pdf]()
 
 ## Publications
 
