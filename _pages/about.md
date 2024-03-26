@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a team lead in the US CDC's new [**Center for Forecasting and Outbreak
-Analytics**](https://www.cdc.gov/forecast-outbreak-analysis/index.html). CFA's
+Analytics**](https://www.cdc.gov/forecast-outbreak-analytics/index.html). CFA's
 goal is to enable timely, effective decision-making to improve outbreak
 response using data, modeling, and analytics.
 
