@@ -28,10 +28,12 @@ denigrating to those who build and maintain gardens.
 
 # Japanese gardens
 
+See first an up-to-date [summary map](https://www.google.com/maps/d/edit?mid=1Z_Ui_8GfKee4RMl9e9Ymb-02QOLGKbM&usp=sharing) showing where I've visited and how I'm tiering gardens.
+
 ## California, San Francisco, Japanese Tea Garden
 
 This one is excellent. Include notes from
-[wiki](https://en.wikipedia.org/wiki/Japanese_Tea_Garden_(San_Francisco)) and
+[wiki](<https://en.wikipedia.org/wiki/Japanese_Tea_Garden_(San_Francisco)>) and
 the book I got.
 
 ![Image 1](/files/images/japanese-gardens/san-francisco-1.jpg){:width="50%"}

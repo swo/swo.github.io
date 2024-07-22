@@ -42,7 +42,7 @@ for the 2020 play-offs.
 Before Covid-19, I was Scientific Director at
 [**OpenBiome**](http://www.openbiome.org), a non-profit stool bank based in
 Boston. OpenBiome provides material for fecal microbiota transplantation
-(FMT) for use in treating *C. difficile* infection and for research.
+(FMT) for use in treating _C. difficile_ infection and for research.
 
 ## Educational background
 
@@ -63,3 +63,7 @@ Chair on the department's graduate student board. During my postdoc I served
 as the President of the [Harvard Chan Postdoc
 Association](http://hsph.me/pda) and served on the School's Committee for
 Diversity and Inclusion.
+
+## Fun
+
+I'm trying to visit all the Japanese gardens in the US. Read about [my progress](japanese-gardens.md).
