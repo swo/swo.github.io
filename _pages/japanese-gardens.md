@@ -30,6 +30,8 @@ denigrating to those who build and maintain gardens.
 
 See first an up-to-date [summary map](https://www.google.com/maps/d/edit?mid=1Z_Ui_8GfKee4RMl9e9Ymb-02QOLGKbM&usp=sharing) showing where I've visited and how I'm tiering gardens.
 
+You can also see [a list](https://www.facebook.com/Shofuso/photos/o.598874040130955/10151707792974179) compiled by the [_Japanese Garden Journal_](http://www.rothteien.com/).
+
 ## California, San Francisco, Japanese Tea Garden
 
 This one is excellent. Include notes from
