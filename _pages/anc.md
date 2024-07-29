@@ -1,11 +1,9 @@
 ---
 # layout: archive
-title: "Scott for ANC"
+title: "Scott for ANC Single Member District 1C05"
 permalink: /anc/
 author_profile: true
 ---
-
-# Scott Olesen for DC Advisory Neighborhood Commission (ANC) Single Member District 1C05
 
 Contact: <anc@scottolesen.com>
 
@@ -33,7 +31,7 @@ I hate construction noise as much as the next guy, but I’d rather support deve
 
 There is no need to "fly blind" when planning our neighborhood. In my day job, I’m a public health data scientist and epidemiologist. Just like in public health, our neighborhood planning should look to local data to understand the local situation and look to broader lessons learned and best practices when making big decisions.
 
-## What are ANCs?
+## Wait, what are ANCs?
 
 [ANCs](anc.dc.gov) are DC’s most local form of government. [ANC 1C](https://anc1c.org/) is the [greater Adams Morgan area](https://anc1c.org/index.php/anc1c-meeting/about-us). Single Member District 1C05 is only part of Lanier Heights.
 
