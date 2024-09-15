@@ -7,6 +7,11 @@ author_profile: true
 
 Contact: <anc@scottolesen.com>
 
+<div>
+<a href="https://ggwash.org/view/96942/2024-anc-endorsements-ward-1"><img src="/images/2024-anc/ggwash.png" width="150" alt="Greater Greater Washington"></a>
+<a href="https://dcyimbys.org/2024-anc-and-shadow-senator-endorsements/"><img src="/images/2024-anc/yimby.png" width="150" alt="DC YIMBYS"></a>
+</div>
+
 ## Constituent-response and transparent
 
 My job would be to represent the 2,000 or so people who live in 1C05. A big part of that job is listening to you. Another part is listening to all our neighbors, to equitably balance our interests across many issues. I can’t promise I will do everything you hope for, but I can promise to be honest and open about how I will vote and why.
