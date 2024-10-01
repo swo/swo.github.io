@@ -1,3 +1,15 @@
+- type: Conference talk
+  place: IDM Symposium
+  title: "Real-time use of a dynamic model to measure the impact of public health interventions on measles outbreak size and duration -- Chicago, Illinois, 2024"
+  date: Oct 2024
+- type: Conference talk
+  title: "Modeling and forecasting using genomic surveillance: lessons from wastewater and COVID-19 variants"
+  place: IDM Symposium
+  date: Oct 2024
+- type: Conference talk
+  title: Prospective demand for nirsevimab to protect U.S. infants and young children against respiratory syncytial virus in the 2024/2025 season ​
+  place: National Immunization Conference
+  date: Sep 2024
 - type: Guest lecture
   title: Wastewater-informed forecasts of COVID-19 hospital admissions
   place: "Infectious Disease Dynamics: Theoretical and Computational Approaches, Johns Hopkins University"
