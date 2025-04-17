@@ -1,7 +1,10 @@
-## Navigating the repo
+## Getting started
 
-- Use `make lserve` to serve locally using the "local" config file
-- Use `make serve` to use the real config file
+- Install ruby, e.g., with mise
+- `gem install bundler`
+- `bundler install` - use the `Gemfile` to install dependencies
+- `make serve` to serve locally
+- `make build` to build locally
 
 ## Notes
 
