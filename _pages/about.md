@@ -13,12 +13,16 @@ Analytics**](https://www.cdc.gov/forecast-outbreak-analytics/index.html). CFA's
 goal is to enable timely, effective decision-making to improve outbreak
 response using data, modeling, and analytics.
 
+Outside of work, I am an [Advisory Neighborhood Commissioner](https://en.wikipedia.org/wiki/Advisory_Neighborhood_Commission)
+for [Commission 1C](https://www.anc1c.org/), representing part of the Lanier
+Heights neighborhood. See my [ANC page](/anc/) for more information.
+
+## Work history
+
 My background is in data science and epidemiology, including in infectious
 disease, microbiome science, microbiology, antibiotic resistance, statistics,
 computing, and mathematical modeling. I have developed skill sets in
 facilitation, technical communication, and project management.
-
-## Work history
 
 During 2021--2022, I was at [**Biobot Analytics**](https://www.biobot.io),
 where I built the Epidemiology Group. The goal of that team is to
