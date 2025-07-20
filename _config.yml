@@ -6,40 +6,40 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Scott Olesen"
-title_separator          : "-"
-name                     : &name "Scott Olesen"
-description              : &description "Data Scientist / Epidemiologist"
-url                      : "https://scottolesen.com"
-baseurl                  : ""
-repository               : "swo/swo.github.io"
-breadcrumbs              : false
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled"
-talkmap_link             : false
+locale: "en-US"
+title: "Scott Olesen"
+title_separator: "-"
+name: &name "Scott Olesen"
+description: &description "Data Scientist / Epidemiologist"
+url: "https://scottolesen.com"
+baseurl: ""
+repository: "swo/swo.github.io"
+breadcrumbs: false
+words_per_minute: 160
+future: true
+read_more: "disabled"
+talkmap_link: false
 comments:
-  provider               : false
+  provider: false
 analytics:
-  provider               :  false
+  provider: false
 
 # Site Author
 author:
-  name             : "Scott Olesen"
-  avatar           : "face.png"
-  bio              : "Data Scientist/Epidemiologist at CDC CFA"
-  location         : "Washington, DC"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=scott+w+olesen"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  github           : "swo"
-  linkedin         : "scott-olesen/"
-  orcid            : "https://orcid.org/0000-0001-5400-4945"
-  twitter          : #"replacethistwitterhandle"
+  name: "Scott Olesen"
+  avatar: "face.png"
+  bio: "Data Scientist/Epidemiologist at CDC CFA"
+  location: "Washington, DC"
+  employer:
+  pubmed: "https://www.ncbi.nlm.nih.gov/pubmed/?term=scott+w+olesen"
+  googlescholar: #"http://yourfullgooglescholarurl.com"
+  email:
+  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
+  uri:
+  github: "swo"
+  linkedin: "scott-olesen/"
+  orcid: "https://orcid.org/0000-0001-5400-4945"
+  twitter: #"replacethistwitterhandle"
 
 # Reading Files
 include:
