@@ -1,10 +1,9 @@
 ## Getting started
 
-- Install ruby, e.g., with mise
-- `gem install bundler`
-- `bundler install` - use the `Gemfile` to install dependencies
-- `make serve` to serve locally
-- `make build` to build locally
+- Use [mise](https://mise.jdx.dev/)
+- `mise run install` to install gems
+- `mise run build` for static, local build
+- `mise run serve` for dynamic, local serve
 
 ## Notes
 

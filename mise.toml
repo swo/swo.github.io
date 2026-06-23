@@ -1,0 +1,7 @@
+[tools]
+ruby = "3.4.9"
+
+[tasks]
+serve = "bundle exec jekyll serve"
+build = "bundle exec jekyll build"
+install = "bundle install"
