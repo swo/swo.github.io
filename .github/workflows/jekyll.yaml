@@ -7,13 +7,13 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: ruby/setup-ruby@v1
+      - uses: actions/checkout@v7
+      - uses: ruby/setup-ruby@v1.341.0
         with:
-          ruby-version: '2.7.4'
+          ruby-version: '3.4.9'
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - run: JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: "_site/"
 
@@ -37,4 +37,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
