@@ -1,10 +1,22 @@
-- title: "Wastewater-informed forecasts of COVID-19 hospital admissions"
+- type: Guest lecture
+  title: Introduction to wastewater-based epidemiology
+  place: Georgetown University, Evidence for Infectious Disease Policy (GLID 5020)
+  date: Sep 2026
+- type: Course module
+  title: Wastewater-based epidemiology for infectious disease surveillance
+  place: Georgetown University, Interdisciplinary Perspectives in Infectious Disease (GLID 5001)
+  date: Jan 2025
+- type: Guest lecture
+  title: Analytics and modeling to support public health decision-making
+  place: Epidemiology 800, Boston University School of Public Healthy
+  date: Nov 2024
+- title: Wastewater-informed forecasts of COVID-19 hospital admissions
   venue: Lecture, Georgetown University, GID
   date: Oct 2024
 - title: Wastewater-informed forecasts of COVID-19 hospital admissions
   venue: "Infectious Disease Dynamics: Theoretical and Computational Approaches, Johns Hopkins University"
   date: May 2024
-- title: "Fecal microbiota transplantation"
+- title: Fecal microbiota transplantation
   venue: Lecture for Georgetown class MICB570/SYSM570 (Clinical Applications of the Microbiota)
   inviter: Tomoko Steen
   date: Apr 2022
@@ -12,38 +24,39 @@
   venue: Lecture for Georgetown class MICB589
   inviter: Tomoko Steen
   date: Nov 2021
-- title: "Translational Microbiome Research for Child Health - Microbiome sequencing"
+- title: Translational Microbiome Research for Child Health - Microbiome sequencing
   venue: Aga Khan University
   date: Apr 2021
 - title: "Data Wrangling"
   venue: CNA Data Science Academy
   date: Mar 2021
-- title: '"Adventures in the Microbiome"'
+- title: Adventures in the Microbiome
   venue: Keynote for Cornell Microbiome Hackathon
   inviter: Ilana Brito
   date: Apr 2019
-- title: '"OpenBiome"'
+- title: OpenBiome
   venue: Lecture for MIT class 7.343 (Microbiome and Drug Delivery)
   inviter: Miguel Jimenez
   date: Apr 2019
-- title: '"Distribution-based clustering"'
+- title: Distribution-based clustering
   venue: Lecture for MIT class 1.871 (Computational Ecology)
   inviter: Otto Cordero
   date: Oct 2016
-- title: "\"Who's there?: Practical bacterial phylogenetics\""
+- title: "Who's there?: Practical bacterial phylogenetics"
   venue: Lecture for Williams College class BIOL 319 (Integrative Bioinformatics, Genomics and Proteomics)
   inviter: Lois Banta
   date: Oct 2016
-- title: '"Bayesian statistics"'
+- title: Bayesian statistics
   venue: Lecture for MIT class 20.560 (Statistics for Biological Engineering Graduate Students). Course co-organizer
   date: Jan 2016
-- title: '"Cooperative binding"'
+- type: Guest lecture
+  title: Cooperative binding
   venue: Lecture for MIT class 20.111 (Thermodynamics of biomolecular systems)
   inviter: Eric Alm
   date: Apr 2014
-- title: "**Supervisor**"
+- title: Supervisor
   venue: Emmanuel College & Department of Physics, University of Cambridge
   date: 2012--2013
-- title: "**Teaching assistant**"
-  venue: Department of Physics, Williams College 
+- title: Teaching assistant
+  venue: Department of Physics, Williams College
   date: 2007--2010
