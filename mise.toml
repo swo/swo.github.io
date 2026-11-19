@@ -2,6 +2,6 @@
 ruby = "3.4.9"
 
 [tasks]
-serve = "bundle exec jekyll serve"
-build = "bundle exec jekyll build"
+serve = "bundle exec jekyll serve --incremental"
+build = "JEKYLL_ENV=production bundle exec jekyll build --strict_front_matter"
 install = "bundle install"
